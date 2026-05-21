@@ -53,14 +53,14 @@ Clasificación de texto sobre el benchmark TweetEval, desarrollada en seis parte
 
 ## Uso
 
-Cada taller es un conjunto de notebooks de Jupyter (`.ipynb`). Para ejecutarlos:
+Los notebooks se entregan **ya ejecutados, con sus salidas visibles**, por lo
+que pueden revisarse sin necesidad de correrlos.
 
-```bash
-jupyter notebook
-```
-
-Los notebooks de un mismo taller divididos en partes deben ejecutarse en el
-orden indicado por su numeración.
+Fueron desarrollados sobre **Kaggle** (Talleres 1–3) y **LightningAI**
+(despliegue del Taller 4): entornos con las dependencias preinstaladas y acceso
+a los datasets. Reproducirlos requiere ese entorno — las dependencias no se
+declaran en este repositorio, los Talleres 1 y 2 usan rutas de datos propias de
+Kaggle, y entrenar los modelos de Transformers requiere GPU.
 
 ## Autor
 
