@@ -64,4 +64,4 @@ orden indicado por su numeración.
 
 ## Autor
 
-Elkin Ortiz R. — elkin.ortizr@gmail.com
+Elkin Ortiz R. — edortizr@eafit.edu.co
